@@ -1,0 +1,10 @@
+E:\DotNetCoreProjects\JobApp\JobApp.API\bin\Debug\netcoreapp2.0\JobApp.API.deps.json
+E:\DotNetCoreProjects\JobApp\JobApp.API\bin\Debug\netcoreapp2.0\JobApp.API.runtimeconfig.json
+E:\DotNetCoreProjects\JobApp\JobApp.API\bin\Debug\netcoreapp2.0\JobApp.API.runtimeconfig.dev.json
+E:\DotNetCoreProjects\JobApp\JobApp.API\bin\Debug\netcoreapp2.0\JobApp.API.dll
+E:\DotNetCoreProjects\JobApp\JobApp.API\bin\Debug\netcoreapp2.0\JobApp.API.pdb
+E:\DotNetCoreProjects\JobApp\JobApp.API\obj\Debug\netcoreapp2.0\JobApp.API.csproj.CoreCompileInputs.cache
+E:\DotNetCoreProjects\JobApp\JobApp.API\obj\Debug\netcoreapp2.0\JobApp.API.AssemblyInfoInputs.cache
+E:\DotNetCoreProjects\JobApp\JobApp.API\obj\Debug\netcoreapp2.0\JobApp.API.AssemblyInfo.cs
+E:\DotNetCoreProjects\JobApp\JobApp.API\obj\Debug\netcoreapp2.0\JobApp.API.dll
+E:\DotNetCoreProjects\JobApp\JobApp.API\obj\Debug\netcoreapp2.0\JobApp.API.pdb
